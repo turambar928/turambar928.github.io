@@ -12,7 +12,7 @@ redirect_from:
 I am a junior undergraduate student pursuing a Bachelor's degree in Software Engineering at Tongji University. My research interests focus on artificial intelligence, particularly in natural language processing and large language models. I have gained valuable research experience through internships at leading institutions including the Chinese Academy of Sciences and Xi'an Jiaotong University, and have participated in academic exchange programs at the University of Oxford.
 
 <span class='anchor' id='education'></span>
-# 📖 Education
+# Education
 
 ### Undergraduate Student
 *Shanghai · Sep 2022 – Jun 2026 (Expected)*
@@ -27,12 +27,12 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 * Gained international academic experience and cross-cultural research perspectives.
 
 <span class='anchor' id='internships'></span>
-# 💻 Internships
+# Internships
 
 ### Research Intern
 *Beijing · Jul 2025 – Present*
 * **Institution:** Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
-* [to be added]
+* Focusing on MCP projects like Data2MCP and plugfest.
 
 ### Research Intern
 *Remote · Sep 2024 – Present*
@@ -48,19 +48,13 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 * Responsible for code maintenance and algorithm analysis and enhancement.
 
 <span class='anchor' id='projects'></span>
-# 📂 Projects
+# Projects
 
 I maintain and contribute to various open-source projects, focusing on AI, NLP, and web development. These projects demonstrate my technical skills and commitment to sharing knowledge with the community. You can view them on my [GitHub profile](https://github.com/turambar928).
 
 <span class='anchor' id='skills'></span>
-# 🛠️ Skills
 
-*   **AI & Machine Learning:** NLP, LLM, TensorFlow, PyTorch, OpenCV
-*   **Programming Languages:** Python, C / C++, SQL, TypeScript
-*   **Tools & Systems:** Linux, Git, Docker
-
-<span class='anchor'id='contact'></span>
-# 📫 Contact
+# Contact
 
 I'm always open to discussing research opportunities, collaborations or projects. Feel free to reach out through any of the following channels:
 
