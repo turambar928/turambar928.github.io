@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am a junior undergraduate student pursuing a Bachelor's degree in Software Engineering at Tongji University. My research interests focus on artificial intelligence, particularly in natural language processing and large language models. I have gained valuable research experience through internships at leading institutions including the Chinese Academy of Sciences and Xi'an Jiaotong University, and have participated in academic exchange programs at the University of Oxford.
+I am a junior undergraduate student pursuing a Bachelor's degree in Software Engineering at Tongji University. My research interests focus on artificial intelligence, particularly in natural language processing and large language models. I have gained valuable research experience through internships at leading institutions including the Chinese Academy of Sciences and Xi'an Jiaotong University, and have participated in academic programs at Oxford University.
 
 <span class='anchor' id='education'></span>
 # Education
@@ -29,19 +29,19 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 <span class='anchor' id='internships'></span>
 # Internships
 
-### Research Intern
+### 
 *Beijing · Jul 2025 – Present*
 * **Institution:** Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
 * Focusing on MCP projects like Data2MCP and plugfest.
 
-### Research Intern
+### 
 *Remote · Sep 2024 – Present*
 * **Institution:** Cyberspace Security Laboratory, Xi'an Jiaotong University
 * Participated in a government knowledge graph project, focusing on efficient construction methods for low-quality corpora.
 * Developed a Vue.js-based visualization interface for intuitive graph presentation.
 * Leading a paper enhancement project leveraging large language models for automated knowledge graph construction using MCP server.
 
-### Research Intern
+### 
 *Shanghai · Dec 2023 – May 2024*
 * **Institution:** Machine Intelligence Laboratory, Tongji University
 * Participated in research on dynamic HBF architecture optimization under real-time sparse distribution.
@@ -50,7 +50,7 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 <span class='anchor' id='projects'></span>
 # Projects
 
-I maintain and contribute to various open-source projects, focusing on AI, NLP, and web development. These projects demonstrate my technical skills and commitment to sharing knowledge with the community. You can view them on my [GitHub profile](https://github.com/turambar928).
+I maintain and contribute to various open-source projects, focusing on AI, NLP, Enbedding systems and web development. These projects demonstrate my technical skills and commitment to sharing knowledge with the community. You can view them on my [GitHub profile](https://github.com/turambar928).
 
 <span class='anchor' id='skills'></span>
 
