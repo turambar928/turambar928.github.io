@@ -29,21 +29,18 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 <span class='anchor' id='internships'></span>
 # Internships
 
-### 
+### Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
 *Beijing · Jul 2025 – Present*
-* **Institution:** Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
 * Focusing on MCP projects like Data2MCP and plugfest.
 
-### 
+### Cyberspace Security Laboratory, Xi'an Jiaotong University
 *Remote · Sep 2024 – Present*
-* **Institution:** Cyberspace Security Laboratory, Xi'an Jiaotong University
 * Participated in a government knowledge graph project, focusing on efficient construction methods for low-quality corpora.
 * Developed a Vue.js-based visualization interface for intuitive graph presentation.
 * Leading a paper enhancement project leveraging large language models for automated knowledge graph construction using MCP server.
 
-### 
+### Machine Intelligence Laboratory, Tongji University
 *Shanghai · Dec 2023 – May 2024*
-* **Institution:** Machine Intelligence Laboratory, Tongji University
 * Participated in research on dynamic HBF architecture optimization under real-time sparse distribution.
 * Responsible for code maintenance and algorithm analysis and enhancement.
 
