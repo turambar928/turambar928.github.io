@@ -50,6 +50,21 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 I maintain and contribute to various open-source projects, focusing on AI, NLP, Enbedding systems and web development. These projects demonstrate my technical skills and commitment to sharing knowledge with the community. You can view them on my [GitHub profile](https://github.com/turambar928).
 
 <span class='anchor' id='skills'></span>
+# Skills
+
+### NLP / LLM
+- Large language models (GPT, Llama, Qwen), prompt engineering, function/tool/MCP calling
+- RAG design (chunking, indexing, reranking, caching) with LangChain/LangGraph
+
+### Vector Search
+- FAISS, Milvus, Weaviate, PGVector; semantic retrieval and evaluation
+
+### Frameworks
+- LangChain, LangGraph, LlamaIndex; HF Transformers/PEFT; FastAPI/Flask services
+
+### Data & Ops
+- Data pipelines and benchmarks; embedding model selection (bge, E5, text-embedding-3)
+- Monitoring/observability with OpenTelemetry, Prometheus/Grafana
 
 # Contact
 
