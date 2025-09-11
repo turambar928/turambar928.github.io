@@ -18,9 +18,9 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 *Shanghai · Sep 2022 – Jun 2026 (Expected)*
 * **Institution:** School of Computer Science and Technology, Tongji University
 * Currently a junior student with focus on full-stack development and AI technologies.
-* Coursework includes algorithms, data structures, machine learning, and software engineering.
+* Coursework includes algorithms, data structures, machine learning, embedded system and software engineering.
 
-### Visiting Scholar
+### Summer School
 *Oxford, UK · Jul 2024 – Aug 2024*
 * **Institution:** Oxford University
 * Participated in advanced research programs and academic exchanges.
@@ -31,7 +31,9 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 
 ### Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
 *Beijing · Jul 2025 – Present*
-* Focusing on MCP projects like Data2MCP and plugfest.
+* Leading the Data2MCP project; using MCP to integrate heterogeneous data sources and address data silos.
+* Participating in PlugBench and related projects.
+
 
 ### Cyberspace Security Laboratory, Xi'an Jiaotong University
 *Remote · Sep 2024 – Present*
@@ -52,19 +54,8 @@ I maintain and contribute to various open-source projects, focusing on AI, NLP, 
 <span class='anchor' id='skills'></span>
 # Skills
 
-### NLP / LLM
-- Large language models (GPT, Llama, Qwen), prompt engineering, function/tool/MCP calling
-- RAG design (chunking, indexing, reranking, caching) with LangChain/LangGraph
-
-### Vector Search
-- FAISS, Milvus, Weaviate, PGVector; semantic retrieval and evaluation
-
-### Frameworks
-- LangChain, LangGraph, LlamaIndex; HF Transformers/PEFT; FastAPI/Flask services
-
-### Data & Ops
-- Data pipelines and benchmarks; embedding model selection (bge, E5, text-embedding-3)
-- Monitoring/observability with OpenTelemetry, Prometheus/Grafana
+LLM/NLP, RAG, and agent systems with LangChain/LangGraph; vector search (FAISS/Milvus).
+HF Transformers/PEFT; FastAPI/Flask APIs; MCP for multi-source data integration.
 
 # Contact
 
