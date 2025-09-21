@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am a junior undergraduate student pursuing a Bachelor's degree in Software Engineering at Tongji University. My research interests focus on artificial intelligence, particularly in natural language processing and large language models. I have gained valuable research experience through internships at leading institutions including the Chinese Academy of Sciences and Xi'an Jiaotong University, and have participated in academic programs at Oxford University.
+I am a junior undergraduate student pursuing a Bachelor's degree in Software Engineering at Tongji University. My research interests focus on artificial intelligence, particularly in natural language processing and large language models. I have gained valuable research experience through internships at leading institutions including the Chinese Academy of Sciences and Xi'an Jiaotong University, and have participated in academic programs at OUniversity of Oxford.
 
 <span class='anchor' id='education'></span>
 # Education
@@ -22,7 +22,7 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 
 ### Summer School
 *Oxford, UK · Jul 2024 – Aug 2024*
-* **Institution:** Oxford University
+* **Institution:** University of Oxford
 * Participated in advanced research programs and academic exchanges.
 * Gained international academic experience and cross-cultural research perspectives.
 
