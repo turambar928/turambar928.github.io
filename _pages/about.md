@@ -18,7 +18,7 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 *Shanghai · Sep 2022 – Jun 2026 (Expected)*
 * **Institution:** School of Computer Science and Technology, Tongji University
 * Currently a junior student with focus on full-stack development and AI technologies.
-* Coursework includes algorithms, data structures, machine learning, embedded system and software engineering.
+* Coursework includes algorithms, data structures, machine learning, embedded systems and software engineering.
 
 ### Summer School
 *Oxford, UK · Jul 2024 – Aug 2024*
@@ -29,27 +29,30 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 <span class='anchor' id='internships'></span>
 # Internships
 
-### Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
+### Chinese Information Processing Laboratory, Institute of Software, Chinese Academy of Sciences
 *Beijing · Jul 2025 – Present*
-* Leading the Data2MCP project; using MCP to integrate heterogeneous data sources and address data silos.
-* Participating in PlugBench and related projects.
+* Led Data2MCP project, using MCP to enable model interaction with multiple data sources and address information silos. Compared to traditional RAG, Data2MCP achieved significant improvements in accuracy and efficiency for model data acquisition; related paper under preparation.
+* Participated in Plugfest, CodeCLI reverse engineering research, and related projects, responsible for Python/Shell scripting experiments and data processing, accumulating rich experience in Agent systems and model alignment.
 
-
-### Cyberspace Security Laboratory, Xi'an Jiaotong University
+### Cyberspace Security Laboratory, School of Cyber Science and Engineering, Xi'an Jiaotong University
 *Remote · Sep 2024 – Present*
-* Participated in a government knowledge graph project, focusing on efficient construction methods for low-quality corpora.
-* Developed a Vue.js-based visualization interface for intuitive graph presentation.
-* Leading a paper enhancement project leveraging large language models for automated knowledge graph construction using MCP server.
+* Participated in government knowledge graph construction project, focusing on efficient construction methods for low-quality corpora. Improved knowledge graph construction quality and completeness, reducing average retrieval time by ~15.3% and increasing information hit rate by ~12.8%; paper published in Journal of Intelligent Systems (CCF-C).
+* Developed Vue.js visualization interface for graph presentation.
+* Led paper enhancement project leveraging LLM capabilities for automated knowledge graph construction, planned completion Sep 2025 for CCF conference submission.
 
-### Machine Intelligence Laboratory, Tongji University
+### Innovation Laboratory, School of Computer Science and Technology, Tongji University
+*Shanghai · Oct 2024 – Jun 2025*
+* Led aviation meal prediction system development, utilizing image recognition and data analysis to capture and analyze food residue on meal trays in real-time, predicting future flight meal requirements; responsible for backend development, testing, and recognition model training.
+* Led intelligent automotive wire harness matching research, a collaboration with NIO and Shanghai Innovation Project, leveraging LLM technology to improve wire harness allocation efficiency and quality; responsible for project research, planning, software design, modeling, and implementation.
+
+### Machine Intelligence Laboratory, School of Computer Science and Technology, Tongji University
 *Shanghai · Dec 2023 – May 2024*
-* Participated in research on dynamic HBF architecture optimization under real-time sparse distribution.
-* Responsible for code maintenance and algorithm analysis and enhancement.
+* Participated in dynamic HBF architecture optimization research under real-time sparse distribution, studying end-to-end HBF network design solutions considering hardware constraints and user channel statistical distribution to improve capacity gains; responsible for code maintenance and algorithm analysis enhancement.
 
 <span class='anchor' id='projects'></span>
 # Projects
 
-I maintain and contribute to various open-source projects, focusing on AI, NLP, Enbedding systems and web development. These projects demonstrate my technical skills and commitment to sharing knowledge with the community. You can view them on my [GitHub profile](https://github.com/turambar928).
+I maintain and contribute to various open-source projects, focusing on AI, NLP, Embedding systems and web development. These projects demonstrate my technical skills and commitment to sharing knowledge with the community. You can view them on my [GitHub profile](https://github.com/turambar928).
 
 <span class='anchor' id='skills'></span>
 # Skills
