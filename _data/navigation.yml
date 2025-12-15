@@ -14,3 +14,10 @@ main:
 
   - title: "Contact"
     url: "/#contact"
+
+  - title: "Resume"
+    url: "/docs/Zifu%20Tao_Resume.pdf"
+    # Optional: Add download attribute to force download
+    download: "Zifu_Tao_Resume.pdf"
+    target: "_blank"
+    rel: "noopener noreferrer"

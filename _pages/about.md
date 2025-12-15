@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am a junior undergraduate student pursuing a Bachelor's degree in Software Engineering at Tongji University. My research interests focus on artificial intelligence, particularly in natural language processing and large language models. I have gained valuable research experience through internships at leading institutions including the Chinese Academy of Sciences and Xi'an Jiaotong University, and have participated in academic programs at University of Oxford.
+I am a Senior undergraduate student pursuing a Bachelor's degree in Software Engineering at Tongji University. My research interests focus on natural language processing and large language models. I have gained valuable research experience through internships at leading institutions including  Tongji University, Chinese Academy of Sciences and Xi'an Jiaotong University.
 
 <span class='anchor' id='education'></span>
 # Education
@@ -29,12 +29,12 @@ I am a junior undergraduate student pursuing a Bachelor's degree in Software Eng
 <span class='anchor' id='internships'></span>
 # Internships
 
-### Chinese Information Processing Laboratory, Institute of Software, Chinese Academy of Sciences
+### Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
 *Beijing · Jul 2025 – Present*
 * Led Data2MCP project, using MCP to enable model interaction with multiple data sources and address information silos. Compared to traditional RAG, Data2MCP achieved significant improvements in accuracy and efficiency for model data acquisition; related paper under preparation.
-* Participated in Plugfest, CodeCLI reverse engineering research, and related projects, responsible for Python/Shell scripting experiments and data processing, accumulating rich experience in Agent systems and model alignment.
+* Participated in Plugfest, CodeCLI reverse engineering research, contributed to benchmarking and fine-tuning experiments with AI agents, Gained solid experience in model alignment and multi-source data integration.
 
-### Cyberspace Security Laboratory, School of Cyber Science and Engineering, Xi'an Jiaotong University
+### Key Laboratory of Intelligent Networks and Network Security, School of Cyber Science and Engineering, Xi'an Jiaotong University
 *Remote · Sep 2024 – Present*
 * Participated in government knowledge graph construction project, focusing on efficient construction methods for low-quality corpora. Improved knowledge graph construction quality and completeness, reducing average retrieval time by ~15.3% and increasing information hit rate by ~12.8%; paper published in Journal of Intelligent Systems (CCF-C).
 * Developed Vue.js visualization interface for graph presentation.
