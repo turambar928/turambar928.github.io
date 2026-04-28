@@ -19,8 +19,10 @@ I am a Senior undergraduate student pursuing a Bachelor's degree in Software Eng
 * **Institution:** School of Computer Science and Technology, Tongji University
 * Currently a junior student with focus on full-stack development and AI technologies.
 * Coursework includes algorithms, data structures, machine learning, embedded systems and software engineering.
+* Student Member, Chinese Information Processing Society of China (CIPS)
+* Student Member, IEEE
 
-### Summer School
+### Summer Project
 *Oxford, UK · Jul 2024 – Aug 2024*
 * **Institution:** University of Oxford
 * Participated in advanced research programs and academic exchanges.
@@ -31,14 +33,24 @@ I am a Senior undergraduate student pursuing a Bachelor's degree in Software Eng
 
 ### Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
 *Beijing · Jul 2025 – Present*
-* Led Data2MCP project, using MCP to enable model interaction with multiple data sources and address information silos. Compared to traditional RAG, Data2MCP achieved significant improvements in accuracy and efficiency for model data acquisition; related paper under preparation.
-* Participated in Plugfest, CodeCLI reverse engineering research, contributed to benchmarking and fine-tuning experiments with AI agents, Gained solid experience in model alignment and multi-source data integration.
+* Advisor: Prof. Le Sun; Co-advised by Prof. Yaojie Lu
+* Project: Data2MCP: MCP-based multi-source data retrieval system (NeurIPS 2026)
+* Designed efficient interaction between large models and multiple external data sources to break data silos
+* Improved retrieval performance over traditional RAG frameworks
+* Conducted benchmarking and fine-tuning experiments with AI agents, accumulated experience in model alignment and multi-source data integration
 
-### Key Laboratory of Intelligent Networks and Network Security, School of Cyber Science and Engineering, Xi'an Jiaotong University
+
+### Key Laboratory of Intelligent Networks and Network Security, Xi’an Jiaotong University
 *Remote · Sep 2024 – Present*
-* Participated in government knowledge graph construction project, focusing on efficient construction methods for low-quality corpora. Improved knowledge graph construction quality and completeness, reducing average retrieval time by ~15.3% and increasing information hit rate by ~12.8%; paper published in Journal of Intelligent Systems (CCF-C).
-* Developed Vue.js visualization interface for graph presentation.
-* Led paper enhancement project leveraging LLM capabilities for automated knowledge graph construction, planned completion Sep 2025 for CCF conference submission.
+* Advisor: Prof. Bo Han; Co-advised by Prof. Tian Zhou
+* Project 1: Constraint-Based Multi-Strategy Quality Enhancement for Knowledge Graphs (TKDE)
+  - Proposed constrained optimization framework for multi-dimensional KG quality optimization
+  - Designed three-strategy collaborative mechanism for defect repair
+  - Achieved remarkable cross-domain quality improvement on low-quality KG data
+* Project 2: RL-Driven Knowledge Graph Quality Optimization with Automatic Rule Generation (EMNLP 2025)
+  - Developed DQN-based closed-loop framework for KG and rule co-optimization
+  - Proposed LLM-based dual-strategy automatic rule generation method
+  - Realized adaptive decision-making for KG enhancement and rule generation
 
 ### Innovation Laboratory, School of Computer Science and Technology, Tongji University
 *Shanghai · Oct 2024 – Jun 2025*
@@ -52,13 +64,17 @@ I am a Senior undergraduate student pursuing a Bachelor's degree in Software Eng
 <span class='anchor' id='projects'></span>
 # Projects
 
-I maintain and contribute to various open-source projects, focusing on AI, NLP, Embedding systems and web development. These projects demonstrate my technical skills and commitment to sharing knowledge with the community. You can view them on my [GitHub profile](https://github.com/turambar928).
+I maintain and contribute to various open-source projects, focusing on Agents, NLP, Embedding systems and web development. These projects demonstrate my technical skills and commitment to sharing knowledge with the community. You can view them on my [GitHub profile](https://github.com/turambar928).
 
 <span class='anchor' id='skills'></span>
 # Skills
 
-LLM/NLP, RAG, and agent systems with LangChain/LangGraph; vector search (FAISS/Milvus).
-HF Transformers/PEFT; FastAPI/Flask APIs; MCP for multi-source data integration.
+* LLM / NLP / RAG / AI Agents
+* Knowledge Graph Construction & Quality Enhancement
+* Multi-source Data Integration (MCP)
+* LangChain, Transformers, PEFT
+* Python, C++, FastAPI, Flask, Vue
+* YOLO, ROS, LiDAR Perception
 
 # Contact
 
