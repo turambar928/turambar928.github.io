@@ -34,6 +34,7 @@ I am a Senior undergraduate student pursuing a Bachelor's degree in Software Eng
 ### Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
 *Beijing · Jul 2025 – Present*
 * Advisor: Prof. Le Sun; Co-advised by Prof. Yaojie Lu
+* Institution: <a href="https://www.icip.org.cn/zh/homepage/" target="_blank">Chinese Information Processing Laboratory</a>, Institute of Software Chinese Academy of Sciences
 * Project: Data2MCP: MCP-based multi-source data retrieval system (NeurIPS 2026)
 * Designed efficient interaction between large models and multiple external data sources to break data silos
 * Improved retrieval performance over traditional RAG frameworks
