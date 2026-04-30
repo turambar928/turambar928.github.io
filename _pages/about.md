@@ -35,7 +35,7 @@ I am a Senior undergraduate student pursuing a Bachelor's degree in Software Eng
 *Beijing · Jul 2025 – Present*
 * Advisor: Prof. Le Sun; Co-advised by Prof. Yaojie Lu
 * Institution: <a href="https://www.icip.org.cn/zh/homepage/" target="_blank">Chinese Information Processing Laboratory</a>, Institute of Software Chinese Academy of Sciences
-* Project: Data2MCP: MCP-based multi-source data retrieval system (NeurIPS 2026)
+* Project: Data2MCP: MCP-based multi-source data retrieval system
 * Designed efficient interaction between large models and multiple external data sources to break data silos
 * Improved retrieval performance over traditional RAG frameworks
 * Conducted benchmarking and fine-tuning experiments with AI agents, accumulated experience in model alignment and multi-source data integration
@@ -44,11 +44,11 @@ I am a Senior undergraduate student pursuing a Bachelor's degree in Software Eng
 ### Key Laboratory of Intelligent Networks and Network Security, Xi’an Jiaotong University
 *Remote · Sep 2024 – Present*
 * Advisor: Prof. Bo Han; Co-advised by Prof. Tian Zhou
-* Project 1: Constraint-Based Multi-Strategy Quality Enhancement for Knowledge Graphs (TKDE)
+* Project 1: Constraint-Based Multi-Strategy Quality Enhancement for Knowledge Graphs
   - Proposed constrained optimization framework for multi-dimensional KG quality optimization
   - Designed three-strategy collaborative mechanism for defect repair
   - Achieved remarkable cross-domain quality improvement on low-quality KG data
-* Project 2: RL-Driven Knowledge Graph Quality Optimization with Automatic Rule Generation (EMNLP 2025)
+* Project 2: RL-Driven Knowledge Graph Quality Optimization with Automatic Rule Generation
   - Developed DQN-based closed-loop framework for KG and rule co-optimization
   - Proposed LLM-based dual-strategy automatic rule generation method
   - Realized adaptive decision-making for KG enhancement and rule generation
