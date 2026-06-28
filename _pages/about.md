@@ -17,48 +17,24 @@ I am a 2026 graduate of the Software Engineering program at the <a href="https:/
 # Education
 
 ### Undergraduate Student
-*Shanghai · Sep 2022 – Jun 2026*
-* **Institution:** School of Computer Science and Technology, Tongji University
+* School of Computer Science and Technology, Tongji University, Shanghai · Sep 2022 – Jun 2026
   - supervised by Prof. <a href="https://cs.tongji.edu.cn/info/1061/2729.htm" target="_blank">Changqing Yin</a>
 
 
 ### Summer Program
-*Oxford, UK · Jul 2024 – Aug 2024*
-* **Institution:** <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
+* <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>, Oxford, UK · Jul 2024 – Aug 2024
 
 <span class='anchor' id='internships'></span>
 # Internships
 
-### <a href="https://www.icip.org.cn/zh/homepage/" target="_blank">Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
-*Beijing · Jul 2025 – Present*
+* <a href="https://www.icip.org.cn/zh/homepage/" target="_blank">Chinese Information Processing Laboratory</a>, Institute of Software Chinese Academy of Sciences, Beijing · Jul 2025 – Present
+* Key Laboratory of Intelligent Networks and Network Security, Xi’an Jiaotong University, remote · Sep 2024 – Present
+* Innovation Laboratory, School of Computer Science and Technology, Tongji University, Shanghai · Oct 2024 – Jun 2025
+* Machine Intelligence Laboratory, School of Computer Science and Technology, Tongji University, Shanghai · Dec 2023 – May 2024
 
 
-
-### Key Laboratory of Intelligent Networks and Network Security, Xi’an Jiaotong University
-*Remote · Sep 2024 – Present*
-* Advisor: Prof. Bo Han; Co-advised by Prof. Tian Zhou
-* Project 1: Constraint-Based Multi-Strategy Quality Enhancement for Knowledge Graphs
-  - Proposed constrained optimization framework for multi-dimensional KG quality optimization
-  - Designed three-strategy collaborative mechanism for defect repair
-  - Achieved remarkable cross-domain quality improvement on low-quality KG data
-* Project 2: RL-Driven Knowledge Graph Quality Optimization with Automatic Rule Generation
-  - Developed DQN-based closed-loop framework for KG and rule co-optimization
-  - Proposed LLM-based dual-strategy automatic rule generation method
-  - Realized adaptive decision-making for KG enhancement and rule generation
-
-### Innovation Laboratory, School of Computer Science and Technology, Tongji University
-*Shanghai · Oct 2024 – Jun 2025*
-* Led aviation meal prediction system development, utilizing image recognition and data analysis to capture and analyze food residue on meal trays in real-time, predicting future flight meal requirements; responsible for backend development, testing, and recognition model training.
-* Led intelligent automotive wire harness matching research, a collaboration with NIO and Shanghai Innovation Project, leveraging LLM technology to improve wire harness allocation efficiency and quality; responsible for project research, planning, software design, modeling, and implementation.
-
-### Machine Intelligence Laboratory, School of Computer Science and Technology, Tongji University
-*Shanghai · Dec 2023 – May 2024*
-* Participated in dynamic HBF architecture optimization research under real-time sparse distribution, studying end-to-end HBF network design solutions considering hardware constraints and user channel statistical distribution to improve capacity gains; responsible for code maintenance and algorithm analysis enhancement.
-
-<span class='anchor' id='Memberships'></span>
+<span class='anchor' id='memberships'></span>
 # Memberships
-
-
 * Student Member, Association for Computational Linguistics
 * Student Member, Chinese Information Processing Society of China (CIPS)
 * Student Member, IEEE

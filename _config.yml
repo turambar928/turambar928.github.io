@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tao Zifu"
+title                    : "Tao Zifu (陶子芾)"
 description              : "Software Engineer. Junior undergraduate student at Tongji University. Research interests in NLP and LLMs."
 repository               : "turambar928/turambar928.github.io"
 google_scholar_stats_use_cdn : true
