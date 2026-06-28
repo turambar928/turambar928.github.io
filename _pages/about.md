@@ -9,36 +9,29 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am a Senior undergraduate student pursuing a Bachelor's degree in Software Engineering at Tongji University. My research interests focus on natural language processing and large language models. I have gained valuable research experience through internships at leading institutions including  Tongji University, Chinese Academy of Sciences and Xi'an Jiaotong University.
+I am a 2026 graduate of the Software Engineering program at the <a href="https://cs.tongji.edu.cn/" target="_blank">School of Computer Science and Technology</a>, <a href="https://www.tongji.edu.cn/" target="_blank">Tongji University</a>, and I'm going to pursue my Master's degree in Computer Science at <a href="https://cims.nyu.edu/" target="_blank">Courant Institute of Mathematical Sciences</a> (School of Mathematics, Computing, and Data Science) in <a href="https://www.nyu.edu/" target="_blank">New York University</a>, starting in September 2026. My research interests focus on natural language processing, specifically agents and post-training. I have gained valuable research experience through internships at leading institutions including <a href="https://www.tongji.edu.cn/" target="_blank">Tongji University</a>, <a href="https://english.cas.cn/" target="_blank">Chinese Academy of Sciences</a> and <a href="https://en.xjtu.edu.cn/" target="_blank">Xi'an Jiaotong University</a>, and worked closely with Prof. <a href="https://cs.tongji.edu.cn/info/1061/2729.htm" target="_blank">Changqing Yin</a> (Tongji Univ), Prof. <a href="https://cybersec.xjtu.edu.cn/info/1015/1963.htm" target="_blank">Tian Zhou</a> (Xi'an Jiaotong Univ), Prof. <a href="https://www.icip.org.cn/team/sunle/" target="_blank">Le Sun</a> (ISCAS), Prof. <a href="https://yaojie.lu/" target="_blank">Yaojie Lu</a> (ISCAS).
+
+
 
 <span class='anchor' id='education'></span>
 # Education
 
 ### Undergraduate Student
-*Shanghai · Sep 2022 – Jun 2026 (Expected)*
+*Shanghai · Sep 2022 – Jun 2026*
 * **Institution:** School of Computer Science and Technology, Tongji University
-* Currently a junior student with focus on full-stack development and AI technologies.
-* Coursework includes algorithms, data structures, machine learning, embedded systems and software engineering.
-* Student Member, Chinese Information Processing Society of China (CIPS)
-* Student Member, IEEE
+  - supervised by Prof. <a href="https://cs.tongji.edu.cn/info/1061/2729.htm" target="_blank">Changqing Yin</a>
 
-### Summer Project
+
+### Summer Program
 *Oxford, UK · Jul 2024 – Aug 2024*
-* **Institution:** University of Oxford
-* Participated in advanced research programs and academic exchanges.
-* Gained international academic experience and cross-cultural research perspectives.
+* **Institution:** <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>
 
 <span class='anchor' id='internships'></span>
 # Internships
 
-### Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
+### <a href="https://www.icip.org.cn/zh/homepage/" target="_blank">Chinese Information Processing Laboratory, Institute of Software Chinese Academy of Sciences
 *Beijing · Jul 2025 – Present*
-* Advisor: Prof. Le Sun; Co-advised by Prof. Yaojie Lu
-* Institution: <a href="https://www.icip.org.cn/zh/homepage/" target="_blank">Chinese Information Processing Laboratory</a>, Institute of Software Chinese Academy of Sciences
-* Project: Data2MCP: MCP-based multi-source data retrieval system
-* Designed efficient interaction between large models and multiple external data sources to break data silos
-* Improved retrieval performance over traditional RAG frameworks
-* Conducted benchmarking and fine-tuning experiments with AI agents, accumulated experience in model alignment and multi-source data integration
+
 
 
 ### Key Laboratory of Intelligent Networks and Network Security, Xi’an Jiaotong University
@@ -61,6 +54,14 @@ I am a Senior undergraduate student pursuing a Bachelor's degree in Software Eng
 ### Machine Intelligence Laboratory, School of Computer Science and Technology, Tongji University
 *Shanghai · Dec 2023 – May 2024*
 * Participated in dynamic HBF architecture optimization research under real-time sparse distribution, studying end-to-end HBF network design solutions considering hardware constraints and user channel statistical distribution to improve capacity gains; responsible for code maintenance and algorithm analysis enhancement.
+
+<span class='anchor' id='Memberships'></span>
+# Memberships
+
+
+* Student Member, Association for Computational Linguistics
+* Student Member, Chinese Information Processing Society of China (CIPS)
+* Student Member, IEEE
 
 <span class='anchor' id='projects'></span>
 # Projects
