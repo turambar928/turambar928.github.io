@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tao Zifu (陶子芾)"
+title                    : "Zifu Tao (陶子芾)"
 description              : "Software Engineer. Junior undergraduate student at Tongji University. Research interests in NLP and LLMs."
 repository               : "turambar928/turambar928.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tao Zifu"
+  name             : "Zifu Tao (陶子芾)"
   avatar           : "images/portrait.png"
   bio              : "Software Engineer | Tongji University"
   location         : "Shanghai, China"
