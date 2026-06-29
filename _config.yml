@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tao Zifu"
-  avatar           : "images/portrait.jpg"
+  avatar           : "images/portrait.png"
   bio              : "Software Engineer | Tongji University"
-  location         : "Beijing, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : ""
