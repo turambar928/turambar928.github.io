@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zifu Tao 陶子芾"
-description              : "Master student at New York University Courant Institute of Mathematical Sciences. Research interests in NLP and LLMs."
+description              : ""
 repository               : "turambar928/turambar928.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zifu Tao 陶子芾"
   avatar           : "images/portrait.png"
-  bio              : "Master student at New York University Courant Institute of Mathematical Sciences."
+  bio              : "Master student at New York University Courant Institute of Mathematical Sciences. Research interests in NLP and LLMs."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
