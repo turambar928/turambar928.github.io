@@ -35,16 +35,16 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 <span class='anchor' id='publications'></span>
 # Publications
 
-* [<a href="https://openreview.net/forum?id=X1EOiod6ar#discussion" target="_blank">Structured Strategy Injection for Data Analysis Agents</a>]  
+* <a href="https://openreview.net/forum?id=X1EOiod6ar#discussion" target="_blank">Structured Strategy Injection for Data Analysis Agents</a>
   **Zifu Tao**, Guozhao Mo, Weixiang Zhou, Yaojie Lu, Hongyu Lin, Ben He, Xianpei Han, Le Sun  
   *Submitted to EMNLP 2026*
 
-* [<a href="#" target="_blank">Constraint-Driven Multi-Scale Knowledge Graph Quality Enhancement: A Unified Optimization Framework</a>]  
-  Hua Peng<sup>1†</sup>, **Zifu Tao**<sup>2†</sup>, Yu Guo<sup>1</sup>, Qiang Zhou<sup>2</sup>, Tian Zhou<sup>3*</sup>, Bo Han<sup>3</sup>  
+* <a href="#" target="_blank">Constraint-Driven Multi-Scale Knowledge Graph Quality Enhancement: A Unified Optimization Framework</a>  
+  Hua Peng<sup>1†</sup>, **Zifu Tao**<sup>2†</sup>, Yu Guo<sup>1</sup>, Qiang Zhou<sup>2</sup>, Tian Zhou<sup>3</sup>, Bo Han<sup>3</sup>  
   *Submitted to Data Mining and Knowledge Discovery (DMKD)*
 
-* [<a href="#" target="_blank">Reinforcement Learning for Knowledge Graph Co-optimization: A Dual-Strategy Rule Generation Framework</a>]  
-  **Zifu Tao**<sup>2†</sup>, Hua Peng<sup>1†</sup>, Tian Zhou<sup>3*</sup>, Bo Han<sup>3</sup>  
+* <a href="#" target="_blank">Reinforcement Learning for Knowledge Graph Co-optimization: A Dual-Strategy Rule Generation Framework</a>  
+  **Zifu Tao**<sup>1†</sup>, Hua Peng<sup>2†</sup>, Tian Zhou<sup>3</sup>  
   *Submitted to IEEE Transactions on Knowledge and Data Engineering (TKDE)*
 
 <small>*Note: † indicates equal contribution (Co-first authors), * indicates corresponding author.*</small>
