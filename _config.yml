@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zifu Tao (陶子芾)"
-description              : "Software Engineer. Junior undergraduate student at Tongji University. Research interests in NLP and LLMs."
+title                    : "Zifu Tao 陶子芾"
+description              : "Master student at New York University Courant Institute of Mathematical Sciences. Research interests in NLP and LLMs."
 repository               : "turambar928/turambar928.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zifu Tao (陶子芾)"
+  name             : "Zifu Tao 陶子芾"
   avatar           : "images/portrait.png"
-  bio              : "Software Engineer | Tongji University"
+  bio              : "Master student at New York University Courant Institute of Mathematical Sciences."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 

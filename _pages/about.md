@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am a 2026 graduate of the Software Engineering program at the <a href="https://cs.tongji.edu.cn/" target="_blank">School of Computer Science and Technology</a>, <a href="https://www.tongji.edu.cn/" target="_blank">Tongji University</a>, and I'm going to pursue my Master's degree in Computer Science at <a href="https://cims.nyu.edu/" target="_blank">Courant Institute of Mathematical Sciences</a> (School of Mathematics, Computing, and Data Science) in <a href="https://www.nyu.edu/" target="_blank">New York University</a>, starting in September 2026. My research interests focus on natural language processing, specifically agents and post-training. I have gained valuable research experience through internships at leading institutions including <a href="https://www.tongji.edu.cn/" target="_blank">Tongji University</a>, <a href="https://english.cas.cn/" target="_blank">Chinese Academy of Sciences</a> and <a href="https://en.xjtu.edu.cn/" target="_blank">Xi'an Jiaotong University</a>, and worked closely with Prof. <a href="https://cs.tongji.edu.cn/info/1061/2729.htm" target="_blank">Changqing Yin</a> (Tongji Univ), Prof. <a href="https://cybersec.xjtu.edu.cn/info/1015/1963.htm" target="_blank">Tian Zhou</a> (Xi'an Jiaotong Univ), Prof. <a href="https://www.icip.org.cn/team/sunle/" target="_blank">Le Sun</a> (ISCAS), Prof. <a href="https://yaojie.lu/" target="_blank">Yaojie Lu</a> (ISCAS).
+I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tongji.edu.cn/" target="_blank">School of Computer Science and Technology</a>, <a href="https://www.tongji.edu.cn/" target="_blank">Tongji University</a>, and I'm going to pursue my Master's degree in Computer Science at <a href="https://cims.nyu.edu/" target="_blank">Courant Institute of Mathematical Sciences</a> (School of Mathematics, Computing, and Data Science) in <a href="https://www.nyu.edu/" target="_blank">New York University</a>, starting in September 2026. My research interests focus on natural language processing, specifically agents and post-training. I have gained valuable research experience through internships at leading institutions including <a href="https://www.tongji.edu.cn/" target="_blank">Tongji University</a>, <a href="https://english.cas.cn/" target="_blank">Chinese Academy of Sciences</a> and <a href="https://en.xjtu.edu.cn/" target="_blank">Xi'an Jiaotong University</a>, and worked closely with Prof. <a href="https://cs.tongji.edu.cn/info/1061/2729.htm" target="_blank">Changqing Yin</a> (Tongji Univ), Prof. <a href="https://cybersec.xjtu.edu.cn/info/1015/1963.htm" target="_blank">Tian Zhou</a> (Xi'an Jiaotong Univ), Prof. <a href="https://www.icip.org.cn/team/sunle/" target="_blank">Le Sun</a> (ISCAS), Prof. <a href="https://yaojie.lu/" target="_blank">Yaojie Lu</a> (ISCAS).
 
 
 
@@ -32,6 +32,22 @@ I am a 2026 graduate of the Software Engineering program at the <a href="https:/
 * Innovation Laboratory, School of Computer Science and Technology, Tongji University, Shanghai · Oct 2024 – Jun 2025
 * Machine Intelligence Laboratory, School of Computer Science and Technology, Tongji University, Shanghai · Dec 2023 – May 2024
 
+<span class='anchor' id='publications'></span>
+# Publications
+
+* [<a href="https://openreview.net/forum?id=X1EOiod6ar#discussion" target="_blank">Structured Strategy Injection for Data Analysis Agents</a>]  
+  **Zifu Tao**, Guozhao Mo, Weixiang Zhou, Yaojie Lu, Hongyu Lin, Ben He, Xianpei Han, Le Sun  
+  *Submitted to EMNLP 2026*
+
+* [<a href="#" target="_blank">Constraint-Driven Multi-Scale Knowledge Graph Quality Enhancement: A Unified Optimization Framework</a>]  
+  Hua Peng<sup>1†</sup>, **Zifu Tao**<sup>2†</sup>, Yu Guo<sup>1</sup>, Qiang Zhou<sup>2</sup>, Tian Zhou<sup>3*</sup>, Bo Han<sup>3</sup>  
+  *Submitted to Data Mining and Knowledge Discovery (DMKD)*
+
+* [<a href="#" target="_blank">Reinforcement Learning for Knowledge Graph Co-optimization: A Dual-Strategy Rule Generation Framework</a>]  
+  **Zifu Tao**<sup>2†</sup>, Hua Peng<sup>1†</sup>, Tian Zhou<sup>3*</sup>, Bo Han<sup>3</sup>  
+  *Submitted to IEEE Transactions on Knowledge and Data Engineering (TKDE)*
+
+<small>*Note: † indicates equal contribution (Co-first authors), * indicates corresponding author.*</small>
 
 <span class='anchor' id='memberships'></span>
 # Memberships
@@ -42,22 +58,13 @@ I am a 2026 graduate of the Software Engineering program at the <a href="https:/
 <span class='anchor' id='projects'></span>
 # Projects
 
-I maintain and contribute to various open-source projects, focusing on Agents, NLP, Embedding systems and web development. These projects demonstrate my technical skills and commitment to sharing knowledge with the community. You can view them on my [GitHub profile](https://github.com/turambar928).
+I maintain and contribute to various open-source projects, focusing on Agents, NLP, Embedding systems and web development. You can view them on my [GitHub profile](https://github.com/turambar928).
 
-<span class='anchor' id='skills'></span>
-# Skills
-
-* LLM / NLP / RAG / AI Agents
-* Knowledge Graph Construction & Quality Enhancement
-* Multi-source Data Integration (MCP)
-* LangChain, Transformers, PEFT
-* Python, C++, FastAPI, Flask, Vue
-* YOLO, ROS, LiDAR Perception
 
 # Contact
 
 I'm always open to discussing research opportunities, collaborations or projects. Feel free to reach out through any of the following channels:
 
 *   **Primary Email:** [tzf9282003@163.com](mailto:tzf9282003@163.com)
-*   **Academic Email:** [2253323@tongji.edu.cn](mailto:2253323@tongji.edu.cn)
+*   **Academic Email:** [zifutao@nyu.edu](mailto:zifutao@nyu.edu)
 *   **GitHub:** [github.com/turambar928](https://github.com/turambar928)

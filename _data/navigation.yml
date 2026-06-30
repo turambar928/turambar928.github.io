@@ -6,21 +6,24 @@ main:
   - title: "Internships"
     url: "/#internships"
 
+  - title: "Publications"
+    url: "/#publications"
+
   - title: "Memberships"
     url: "/#memberships"
 
   - title: "Projects"
     url: "/#projects"
 
-  - title: "Skills"
-    url: "/#skills"
+  #- title: "Skills"
+  #  url: "/#skills"
 
   - title: "Contact"
     url: "/#contact"
 
-  - title: "Resume"
-    url: "/docs/Zifu%20Tao_Resume.pdf"
-    # Optional: Add download attribute to force download
-    download: "Zifu_Tao_Resume.pdf"
-    target: "_blank"
-    rel: "noopener noreferrer"
+  #- title: "Resume"
+  #  url: "/docs/Zifu%20Tao_Resume.pdf"
+  #  # Optional: Add download attribute to force download
+  #  download: "Zifu_Tao_Resume.pdf"
+  #  target: "_blank"
+  #  rel: "noopener noreferrer"
