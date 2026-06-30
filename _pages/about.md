@@ -35,7 +35,7 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 <span class='anchor' id='publications'></span>
 # Publications
 
-* <a href="https://openreview.net/forum?id=X1EOiod6ar#discussion" target="_blank">Structured Strategy Injection for Data Analysis Agents</a>
+* <a href="https://openreview.net/forum?id=X1EOiod6ar#discussion" target="_blank">Structured Strategy Injection for Data Analysis Agents</a>  
   **Zifu Tao**, Guozhao Mo, Weixiang Zhou, Yaojie Lu, Hongyu Lin, Ben He, Xianpei Han, Le Sun  
   *Submitted to EMNLP 2026*
 
