@@ -15,8 +15,8 @@ main:
   - title: "Projects"
     url: "/#projects"
 
-  #- title: "Skills"
-  #  url: "/#skills"
+  - title: "Miscellaneous"
+    url: "/#miscellaneous"
 
   - title: "Contact"
     url: "/#contact"

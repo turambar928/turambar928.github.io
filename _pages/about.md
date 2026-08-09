@@ -32,6 +32,7 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 * Innovation Laboratory, School of Computer Science and Technology, Tongji University, Shanghai · Oct 2024 – Jun 2025
 * Machine Intelligence Laboratory, School of Computer Science and Technology, Tongji University, Shanghai · Dec 2023 – May 2024
 
+<!-- 
 <span class='anchor' id='publications'></span>
 # Publications
 
@@ -48,6 +49,8 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
   *Submitted to IEEE Transactions on Knowledge and Data Engineering (TKDE)*
 
 <small>*Note: † indicates equal contribution (Co-first authors), * indicates corresponding author.*</small>
+-->
+
 
 <span class='anchor' id='memberships'></span>
 # Memberships
@@ -59,6 +62,11 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 # Projects
 
 I maintain and contribute to various open-source projects, focusing on Agents, NLP, Embedding systems and web development. You can view them on my [GitHub profile](https://github.com/turambar928).
+
+<span class='anchor' id='miscellaneous'></span>
+# Miscellaneous
+
+
 
 
 # Contact
