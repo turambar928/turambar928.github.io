@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "News"
+    url: "/#news"
+
   - title: "Education"
     url: "/#education"
 
@@ -20,6 +23,9 @@ main:
 
   - title: "Contact"
     url: "/#contact"
+
+  - title: "Paper Notes"
+    url: "/paper-notes/"
 
   #- title: "Resume"
   #  url: "/docs/Zifu%20Tao_Resume.pdf"

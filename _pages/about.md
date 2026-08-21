@@ -13,6 +13,11 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 
 
 
+<span class='anchor' id='news'></span>
+# News
+
+* **Aug 21, 2026**: My paper [*Structured Strategy Injection for Data Analysis Agents*](https://openreview.net/forum?id=X1EOiod6ar#discussion) was accepted to **EMNLP 2026 Findings**. See you in Budapest!
+
 <span class='anchor' id='education'></span>
 # Education
 
@@ -32,14 +37,15 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 * Innovation Laboratory, School of Computer Science and Technology, Tongji University, Shanghai · Oct 2024 – Jun 2025
 * Machine Intelligence Laboratory, School of Computer Science and Technology, Tongji University, Shanghai · Dec 2023 – May 2024
 
-<!-- 
+
 <span class='anchor' id='publications'></span>
 # Publications
 
 * <a href="https://openreview.net/forum?id=X1EOiod6ar#discussion" target="_blank">Structured Strategy Injection for Data Analysis Agents</a>  
   **Zifu Tao**, Guozhao Mo, Weixiang Zhou, Yaojie Lu, Hongyu Lin, Ben He, Xianpei Han, Le Sun  
-  *Submitted to EMNLP 2026*
+  *EMNLP 2026 Findings*
 
+<!-- 
 * <a href="#" target="_blank">Constraint-Driven Multi-Scale Knowledge Graph Quality Enhancement: A Unified Optimization Framework</a>  
   Hua Peng<sup>1†</sup>, **Zifu Tao**<sup>2†</sup>, Yu Guo<sup>1</sup>, Qiang Zhou<sup>2</sup>, Tian Zhou<sup>3</sup>, Bo Han<sup>3</sup>  
   *Submitted to Data Mining and Knowledge Discovery (DMKD)*
