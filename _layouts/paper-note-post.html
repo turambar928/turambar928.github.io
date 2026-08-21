@@ -1,0 +1,90 @@
+---
+layout: compress
+---
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    <style>
+      body { background: #0d1117; margin: 0; }
+      .pn-post-wrap {
+        max-width: 780px;
+        margin: 0 auto;
+        padding: 2.5rem 2rem 4rem;
+        color: #c9d1d9;
+        font-family: "Trebuchet MS", Helvetica, sans-serif;
+        line-height: 1.75;
+      }
+      .pn-back {
+        display: inline-block;
+        color: #818cf8;
+        text-decoration: none;
+        font-size: 0.85em;
+        margin-bottom: 2rem;
+        letter-spacing: 0.03em;
+        transition: color 0.18s;
+      }
+      .pn-back:hover { color: #a78bfa; }
+      .pn-post-title {
+        font-size: 1.7em;
+        font-weight: 700;
+        background: linear-gradient(135deg, #667eea 0%, #a78bfa 50%, #60a5fa 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        margin: 0 0 0.5rem;
+        line-height: 1.3;
+      }
+      .pn-post-meta {
+        font-size: 0.8em;
+        color: #4b5563;
+        margin-bottom: 2rem;
+        letter-spacing: 0.04em;
+      }
+      .pn-post-meta .venue { color: #818cf8; font-style: italic; margin-left: 0.8rem; }
+      .pn-tag {
+        font-size: 0.72em;
+        background: rgba(102,126,234,0.12);
+        color: #818cf8;
+        border-radius: 4px;
+        padding: 2px 7px;
+        border: 1px solid rgba(102,126,234,0.18);
+        margin-left: 0.4rem;
+      }
+      .pn-divider {
+        border: none;
+        border-top: 1px solid rgba(255,255,255,0.07);
+        margin: 2rem 0;
+      }
+      .pn-post-body h2 {
+        font-size: 1.05em;
+        font-weight: 600;
+        color: #e6edf3;
+        margin: 2rem 0 0.6rem;
+        letter-spacing: 0.02em;
+      }
+      .pn-post-body p { color: #9ba5b0; margin: 0 0 1rem; }
+      .pn-post-body a { color: #818cf8; text-decoration: none; }
+      .pn-post-body a:hover { color: #a78bfa; text-decoration: underline; }
+      .pn-post-body strong { color: #c9d1d9; }
+    </style>
+  </head>
+  <body>
+    {% include browser-upgrade.html %}
+    <div class="pn-post-wrap">
+      <a class="pn-back" href="/paper-notes/" target="_self">← Paper Notes</a>
+      <div class="pn-post-title">{{ page.title }}</div>
+      <div class="pn-post-meta">
+        {{ page.date | date: "%B %d, %Y" }}
+        {% if page.venue %}<span class="venue">{{ page.venue }}</span>{% endif %}
+        {% for tag in page.tags %}<span class="pn-tag">{{ tag }}</span>{% endfor %}
+      </div>
+      <hr class="pn-divider">
+      <div class="pn-post-body">
+        {{ content }}
+      </div>
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>

@@ -1,7 +1,7 @@
 ---
 permalink: /paper-notes/
 title: ""
-author_profile: true
+layout: paper-notes
 ---
 
 <style>
@@ -150,7 +150,7 @@ author_profile: true
 {% else %}
 <div class="pn-grid">
 {% for post in notes %}
-  <a class="pn-card" href="{{ post.url }}">
+  <a class="pn-card" href="{{ post.url }}" target="_self">
     <div class="pn-card-date">{{ post.date | date: "%b %d, %Y" }}</div>
     <div class="pn-card-title">{{ post.title }}</div>
     {% if post.venue %}<div class="pn-card-venue">{{ post.venue }}</div>{% endif %}

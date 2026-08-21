@@ -1,0 +1,23 @@
+---
+layout: compress
+---
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+  <body style="background:#0d1117; margin:0;">
+    {% include browser-upgrade.html %}
+    <div id="main" role="main" style="margin:0; padding:0;">
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork" style="margin:0; padding:0; float:none; width:100%;">
+        <div class="page__inner-wrap" style="margin:0;">
+          <section class="page__content" itemprop="text" style="margin:0; padding:0; font-size:1em;">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>

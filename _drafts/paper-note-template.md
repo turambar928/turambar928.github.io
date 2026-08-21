@@ -1,11 +1,12 @@
 ---
 title: "Paper Title"
 date: YYYY-MM-DD
+layout: paper-note-post
 categories:
   - paper-notes
 tags:
-  - agents      # 改成你想要的 tag
-venue: "EMNLP 2025"   # 期刊/会议
+  - agents
+venue: "EMNLP 2025"
 ---
 
 **Paper**: [Title](URL)  

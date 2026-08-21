@@ -1,6 +1,7 @@
 ---
 title: "Structured Strategy Injection for Data Analysis Agents"
 date: 2026-08-21
+layout: paper-note-post
 categories:
   - paper-notes
 tags:
