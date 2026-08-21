@@ -70,7 +70,7 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 I maintain and contribute to various open-source projects, focusing on Agents, NLP, Embedding systems and web development. You can view them on my [GitHub profile](https://github.com/turambar928).
 
 <span class='anchor' id='miscellaneous'></span>
-# Miscellaneous
+<!-- # Miscellaneous -->
 
 
 
