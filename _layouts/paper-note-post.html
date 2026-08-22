@@ -68,6 +68,22 @@ layout: compress
       .pn-post-body a { color: #818cf8; text-decoration: none; }
       .pn-post-body a:hover { color: #a78bfa; text-decoration: underline; }
       .pn-post-body strong { color: #c9d1d9; }
+      .pn-pdf-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45em;
+        margin-top: 0.2rem;
+        padding: 0.4em 1em;
+        background: rgba(102,126,234,0.1);
+        border: 1px solid rgba(102,126,234,0.3);
+        border-radius: 6px;
+        color: #818cf8;
+        text-decoration: none;
+        font-size: 0.82em;
+        letter-spacing: 0.03em;
+        transition: background 0.18s, border-color 0.18s;
+      }
+      .pn-pdf-btn:hover { background: rgba(102,126,234,0.2); border-color: rgba(102,126,234,0.55); color: #a78bfa; text-decoration: none; }
     </style>
   </head>
   <body>
@@ -79,6 +95,7 @@ layout: compress
         {{ page.date | date: "%B %d, %Y" }}
         {% if page.venue %}<span class="venue">{{ page.venue }}</span>{% endif %}
         {% for tag in page.tags %}<span class="pn-tag">{{ tag }}</span>{% endfor %}
+        {% if page.pdf %}<a class="pn-pdf-btn" href="{{ page.pdf }}" target="_blank">&#128196; PDF</a>{% endif %}
       </div>
       <hr class="pn-divider">
       <div class="pn-post-body">
