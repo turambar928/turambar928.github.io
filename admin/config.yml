@@ -1,0 +1,70 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/papers"
+public_folder: "/assets/papers"
+
+locale: zh_Hans
+
+collections:
+  - name: "paper-notes"
+    label: "论文笔记"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - label: "标题"
+        name: "title"
+        widget: "string"
+      - label: "日期"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "YYYY-MM-DD"
+        time_format: false
+      - label: "Venue"
+        name: "venue"
+        widget: "string"
+        hint: "例如：EMNLP 2026 / Preprint 2025"
+        required: false
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        hint: "例如：agents, NLP, evaluation"
+        required: false
+      - label: "PDF 文件"
+        name: "pdf"
+        widget: "file"
+        media_library:
+          config:
+            multiple: false
+        hint: "上传论文 PDF，上传后自动填入路径"
+        required: false
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "paper-note-post"
+      - label: "Categories"
+        name: "categories"
+        widget: "hidden"
+        default: ["paper-notes"]
+      - label: "正文"
+        name: "body"
+        widget: "markdown"
+        hint: "用以下结构写笔记"
+        default: |
+          **论文**：标题
+          **Venue**：
+
+          ## 这篇论文在解决什么问题？
+
+
+
+          ## 核心方法
+
+
+
+          ## 我的想法
