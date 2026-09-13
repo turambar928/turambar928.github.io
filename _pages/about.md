@@ -41,21 +41,27 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 <span class='anchor' id='publications'></span>
 # Publications
 
-* <a href="https://openreview.net/forum?id=X1EOiod6ar#discussion" target="_blank">Structured Strategy Injection for Data Analysis Agents</a>  
-  **Zifu Tao**, Guozhao Mo, Weixiang Zhou, Yaojie Lu, Hongyu Lin, Ben He, Xianpei Han, Le Sun  
+### Published
+
+* <a href="https://openreview.net/forum?id=X1EOiod6ar#discussion" target="_blank">Structured Strategy Injection for Data Analysis Agents</a><br>
+  **Zifu Tao**, Guozhao Mo, Weixiang Zhou, Yaojie Lu, Hongyu Lin, Ben He, Xianpei Han, Le Sun<br>
   *EMNLP 2026 Findings*
 
-<!-- 
-* <a href="#" target="_blank">Constraint-Driven Multi-Scale Knowledge Graph Quality Enhancement: A Unified Optimization Framework</a>  
-  Hua Peng<sup>1†</sup>, **Zifu Tao**<sup>2†</sup>, Yu Guo<sup>1</sup>, Qiang Zhou<sup>2</sup>, Tian Zhou<sup>3</sup>, Bo Han<sup>3</sup>  
-  *Submitted to Data Mining and Knowledge Discovery (DMKD)*
+### Preprints & Manuscripts Under Review
 
-* <a href="#" target="_blank">Reinforcement Learning for Knowledge Graph Co-optimization: A Dual-Strategy Rule Generation Framework</a>  
-  **Zifu Tao**<sup>1†</sup>, Hua Peng<sup>2†</sup>, Tian Zhou<sup>3</sup>  
-  *Submitted to IEEE Transactions on Knowledge and Data Engineering (TKDE)*
+* <a href="https://openreview.net/forum?id=JJDQY33lKk" target="_blank">When Tools Silently Lie: Evaluating and Mitigating Blind Compliance in Tool-Augmented Data Agents</a><br>
+  **Zifu Tao**, Changqing Yin<br>
+  *Under Review at ICLR*
 
-<small>*Note: † indicates equal contribution (Co-first authors), * indicates corresponding author.*</small>
--->
+* *Constraint-Driven Multi-Scale Knowledge Graph Quality Enhancement: A Unified Optimization Framework*<br>
+  Hua Peng<sup>†</sup>, **Zifu Tao**<sup>†</sup>, Yu Guo, Qiang Zhou, Tian Zhou, Bo Han<br>
+  *Under Review at Data Mining and Knowledge Discovery (DMKD)*
+
+* *Reinforcement Learning for Knowledge Graph Co-optimization: A Dual-Strategy Rule Generation Framework*<br>
+  **Zifu Tao**<sup>†</sup>, Hua Peng<sup>†</sup>, Tian Zhou<br>
+  *Under Review at IEEE Transactions on Knowledge and Data Engineering (TKDE)*
+
+<small>*Note: † indicates equal contribution (co-first authors).*</small>
 
 
 <span class='anchor' id='memberships'></span>
