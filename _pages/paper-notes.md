@@ -140,7 +140,7 @@ layout: paper-notes
 
 <div class="pn-header">
   <h1>Paper Notes</h1>
-  <p>Key ideas &amp; takeaways from papers I've read &mdash; NLP, agents, post-training.</p>
+  <p>Key ideas &amp; takeaways from papers I've read &mdash; AI4Sports, agents, NLP, post-training.</p>
 </div>
 
 {% assign notes = site.posts | where_exp: "post", "post.categories contains 'paper-notes'" %}
