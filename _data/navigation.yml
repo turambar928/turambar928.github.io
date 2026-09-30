@@ -12,14 +12,8 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Memberships"
-    url: "/#memberships"
-
   - title: "Projects"
     url: "/#projects"
-
-  - title: "Miscellaneous"
-    url: "/#miscellaneous"
 
   - title: "Contact"
     url: "/#contact"

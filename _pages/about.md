@@ -49,7 +49,7 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 
 ### Preprints & Manuscripts Under Review
 
-* <a href="https://openreview.net/forum?id=JJDQY33lKk" target="_blank">When Tools Silently Lie: Evaluating and Mitigating Blind Compliance in Tool-Augmented Data Agents</a><br>
+* <a href="https://arxiv.org/abs/2609.37153" target="_blank">When Tools Silently Lie: Evaluating and Mitigating Blind Compliance in Tool-Augmented Data Agents</a><br>
   **Zifu Tao**, Changqing Yin<br>
   *Under Review at ICLR 2027*
 
@@ -64,22 +64,10 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 <small>*Note: † indicates equal contribution (co-first authors).*</small>
 
 
-<span class='anchor' id='memberships'></span>
-# Memberships
-* Student Member, Association for Computational Linguistics
-* Student Member, Chinese Information Processing Society of China (CIPS)
-* Student Member, IEEE
-
 <span class='anchor' id='projects'></span>
 # Projects
 
 I maintain and contribute to various open-source projects, focusing on Agents, NLP, Embedding systems and web development. You can view them on my [GitHub profile](https://github.com/turambar928).
-
-<span class='anchor' id='miscellaneous'></span>
-<!-- # Miscellaneous -->
-
-
-
 
 # Contact
 
