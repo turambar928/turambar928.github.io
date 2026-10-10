@@ -51,6 +51,7 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
   **Zifu Tao**, Changqing Yin<br>
   *Under Review at ICLR 2027*
 
+<!--
 * *Constraint-Driven Multi-Scale Knowledge Graph Quality Enhancement: A Unified Optimization Framework*<br>
   Hua Peng<sup>†</sup>, **Zifu Tao**<sup>†</sup>, Yu Guo, Qiang Zhou, Tian Zhou, Bo Han<br>
   *Under Review at Data Mining and Knowledge Discovery (DMKD)*
@@ -60,6 +61,7 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
   *Under Review at IEEE Transactions on Knowledge and Data Engineering (TKDE)*
 
 <small>*Note: † indicates equal contribution (co-first authors).*</small>
+-->
 
 
 <span class='anchor' id='projects'></span>
