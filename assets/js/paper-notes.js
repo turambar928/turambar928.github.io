@@ -158,7 +158,7 @@
           return;
         const q = projected[j];
         const opacity = 0.08 + ((p.depth + q.depth + 2) / 4) * 0.3;
-        ctx.strokeStyle = `rgba(193,233,117,${opacity})`;
+        ctx.strokeStyle = `rgba(196,202,215,${opacity})`;
         ctx.lineWidth = 0.65;
         ctx.beginPath();
         ctx.moveTo(p.x, p.y);
@@ -167,22 +167,22 @@
       });
       ctx.fillStyle =
         i % 8 === 0
-          ? "#d5ff5f"
-          : `rgba(193,233,117,${0.25 + (p.depth + 1) * 0.3})`;
+          ? "#eceef4"
+          : `rgba(196,202,215,${0.25 + (p.depth + 1) * 0.3})`;
       ctx.beginPath();
       ctx.arc(p.x, p.y, i % 8 === 0 ? 2.8 : 1.4, 0, Math.PI * 2);
       ctx.fill();
     });
-    // A blue satellite orbit adds depth without loading a 3D engine.
+    // A silver satellite orbit adds depth without loading a 3D engine.
     ctx.save();
     ctx.translate(width / 2, height / 2);
     ctx.rotate(-0.45);
-    ctx.strokeStyle = "#8daee044";
+    ctx.strokeStyle = "#a1a8b844";
     ctx.lineWidth = 1;
     ctx.beginPath();
     ctx.ellipse(0, 0, width * 0.45, height * 0.13, 0, 0, Math.PI * 2);
     ctx.stroke();
-    ctx.fillStyle = "#a3bde9";
+    ctx.fillStyle = "#d5d9e3";
     ctx.beginPath();
     ctx.arc(
       Math.cos(rotation * 1.6) * width * 0.45,

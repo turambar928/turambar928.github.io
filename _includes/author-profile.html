@@ -215,4 +215,10 @@
       {% endif %}
     </div>
   </div>
+  {% assign reading_notes = site.posts | where_exp: "post", "post.categories contains 'paper-notes'" %}
+  <a class="author__notes" href="{{ '/paper-notes/' | relative_url }}" target="_self" aria-label="Paper Notes — 我的论文阅读笔记">
+    <span class="author__notes-top"><span>RESEARCH ARCHIVE</span><span class="author__notes-arrow" aria-hidden="true">↗</span></span>
+    <span class="author__notes-title">Paper Notes<span aria-hidden="true">✳</span></span>
+    <span class="author__notes-bottom"><span>我的论文阅读笔记</span><span>{{ reading_notes.size }} NOTES</span></span>
+  </a>
 </div>
