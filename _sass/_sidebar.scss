@@ -81,20 +81,22 @@
 
 /* A compact, quiet gateway below the author's links. */
 .author__notes-wrap {
+  display: flex;
   flex: 0 0 100%;
-  margin-top: 16px;
+  margin-top: 8px;
 }
 
 .sidebar .author__notes {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  padding: 8px 11px;
+  gap: 6px;
+  min-height: 28px;
+  padding: 4px 9px;
   border: 1px solid #e2e4e8;
   border-radius: 6px;
   background: #f6f7f8;
   color: #50555e;
-  font: 500 13px/1.4 Arial, "Helvetica Neue", sans-serif;
+  font: 500 12px/1.25 Arial, "Helvetica Neue", sans-serif;
   text-decoration: none;
   transition: background-color .18s ease, border-color .18s ease, color .18s ease;
 
