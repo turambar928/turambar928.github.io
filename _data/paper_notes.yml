@@ -1,0 +1,27 @@
+landscape-of-agentic-reinforcement-learning:
+  label: Learning to act
+  summary: 从单轮回答到持续行动：Agentic RL 的能力版图、训练方法，以及仍未解决的问题。
+audio-for-sports-highlight-detection:
+  artwork: audio
+  label: Listen to the game
+  summary: 不看画面，只听比赛。音频特征加上时间上下文，能否找到真正的高光？
+soccernet-2026-challenges-results:
+  label: The state of play
+  summary: 五项足球视频理解任务，一次技术盘点。从排行榜里寻找值得尝试的方法。
+beyond-the-single-camera:
+  artwork: multiview
+  label: A different angle
+  summary: 更多视角不等于更多有效证据。多视角体育视频中的主动搜索、工具调用与错误恢复。
+deep-learning-for-sports-video-event-detection:
+  artwork: timeline
+  label: Mapping the field
+  summary: 从事件定位到精确时刻检测，梳理体育视频理解的任务、数据集与方法边界。
+nba-streaming:
+  label: Courtside intelligence
+  summary: 从连续视频流到细粒度篮球解说：先定位完整事件，再理解球员、动作与场景。
+conmem:
+  label: Memory into action
+  summary: 不更新模型参数，如何让多智能体系统通过结构化记忆积累经验并调整策略？
+agentbeats:
+  label: Testing the agents
+  summary: 把智能体评估也变成智能体工作流，探索更开放、标准化、可复现的测试方式。

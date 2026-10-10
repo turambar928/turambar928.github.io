@@ -1,0 +1,10 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#101210">
+<title>{{ page.title | escape }} — {{ site.title | escape }}</title>
+<meta name="description" content="{{ page.description | default: page.title | escape }}">
+<meta property="og:title" content="{{ page.title | escape }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+{% if site.url %}<link rel="canonical" href="{{ page.url | absolute_url }}"><meta property="og:url" content="{{ page.url | absolute_url }}">{% endif %}
+<link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/paper-notes.css' | relative_url }}">

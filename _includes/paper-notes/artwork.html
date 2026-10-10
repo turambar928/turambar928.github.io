@@ -1,0 +1,15 @@
+<svg viewBox="0 0 520 210" fill="none" xmlns="http://www.w3.org/2000/svg" focusable="false">
+{% if include.kind == 'audio' %}
+  <g stroke="currentColor" stroke-width="1.4"><path d="M75 107h370" opacity=".3"/><path d="M90 98v18m10-25v32m10-40v48m10-36v24m10-50v76m10-95v114m10-82v50m10-96v142m10-120v98m10-69v40m10-56v72m10-50v26m10-20v14m10-26v40m10-54v68m10-84v100m10-124v148m10-114v80m10-60v40m10-34v28m10-42v56m10-87v118m10-132v146m10-120v94m10-72v50m10-42v34m10-46v58m10-38v18m10-29v40m10-56v72m10-58v44m10-34v24m10-20v16"/><path d="M155 35h55v145h-55zM280 35h65v145h-65z" stroke-dasharray="3 6" opacity=".4"/></g>
+{% elsif include.kind == 'multiview' %}
+  <g stroke="currentColor" stroke-width="1.2"><path d="M75 55h100v65H75zM345 55h100v65H345zM210 115h100v65H210zM125 120l85 30M395 120l-85 30M175 87h170"/><circle cx="125" cy="87" r="17"/><circle cx="395" cy="87" r="17"/><circle cx="260" cy="147" r="17"/><path d="m120 80 14 7-14 7zM390 80l14 7-14 7zM255 140l14 7-14 7z" fill="currentColor"/><path d="m250 65 10-10 10 10-10 10z" fill="currentColor"/></g>
+{% elsif include.kind == 'timeline' %}
+  <g stroke="currentColor" stroke-width="1.2"><path d="M90 65h340M90 110h340M90 155h340" opacity=".3"/><path d="M115 51h110v28H115zM270 51h115v28H270zM150 96h150v28H150zM340 96h45v28h-45zM195 141h50v28h-50zM290 141h65v28h-65z" fill="currentColor" fill-opacity=".1"/><path d="M205 35v150M345 35v150" stroke-dasharray="3 6"/><circle cx="205" cy="35" r="3" fill="currentColor"/><circle cx="345" cy="35" r="3" fill="currentColor"/></g>
+{% elsif include.kind == 'sports' %}
+  <g stroke="currentColor" stroke-width="1.1"><path d="M120 34H400V180H120zM260 34V180"/><circle cx="260" cy="107" r="37"/><path d="M120 65h48v84h-48M400 65h-48v84h48M120 85h18v44h-18M400 85h-18v44h18"/><path d="M175 148Q215 58 302 90T375 66" stroke-dasharray="5 6"/></g><g fill="currentColor"><circle cx="175" cy="148" r="5"/><circle cx="302" cy="90" r="6"/><circle cx="375" cy="66" r="4"/></g>
+{% elsif include.kind == 'rl' %}
+  <g stroke="currentColor"><ellipse cx="260" cy="107" rx="145" ry="50" transform="rotate(-20 260 107)"/><ellipse cx="260" cy="107" rx="145" ry="50" transform="rotate(40 260 107)"/><ellipse cx="260" cy="107" rx="145" ry="50" transform="rotate(100 260 107)"/><circle cx="260" cy="107" r="23"/><circle cx="260" cy="107" r="9" fill="currentColor"/><circle cx="396" cy="62" r="5" fill="currentColor"/></g>
+{% else %}
+  <g stroke="currentColor" stroke-width="1.2"><path d="m125 135 75-80 65 62 70-70 65 88-135-18-70 63-70-45 140-18 70-70M200 55l-5 125 140-133 65 88-205 45"/><circle cx="125" cy="135" r="8"/><circle cx="200" cy="55" r="8"/><circle cx="265" cy="117" r="15"/><circle cx="335" cy="47" r="8"/><circle cx="400" cy="135" r="8"/><circle cx="195" cy="180" r="8"/></g>
+{% endif %}
+</svg>
