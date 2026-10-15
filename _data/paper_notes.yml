@@ -1,3 +1,6 @@
+debate-or-vote:
+  label: Debate or ensemble
+  summary: 多智能体的收益来自相互辩论，还是初始答案的多数投票？拆开集成与交流，重新审视 baseline 和评测协议。
 landscape-of-agentic-reinforcement-learning:
   label: Learning to act
   summary: 从单轮回答到持续行动：Agentic RL 的能力版图、训练方法，以及仍未解决的问题。
