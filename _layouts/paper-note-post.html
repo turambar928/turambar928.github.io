@@ -19,6 +19,6 @@ layout: null
     <nav class="pn-adjacent" aria-label="More reading notes">{% if newer %}<a href="{{ newer.url | relative_url }}"><span>← NEWER NOTE</span><strong>{{ newer.title | escape }}</strong></a>{% endif %}{% if older %}<a href="{{ older.url | relative_url }}"><span>OLDER NOTE →</span><strong>{{ older.title | escape }}</strong></a>{% endif %}</nav>
     <footer class="pn-footer"><a href="{{ '/paper-notes/' | relative_url }}">THE READING ROOM ↗</a><p>NOT A PAPER DUMP. A WORK IN THOUGHT.</p><a href="#top">BACK TO TOP ↑</a></footer>
   </main>
-  <script src="{{ '/assets/js/paper-notes.js' | relative_url }}" defer></script>
+  <script src="{{ '/assets/js/paper-notes.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 </body>
 </html>

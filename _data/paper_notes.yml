@@ -1,3 +1,6 @@
+beyond-a-single-crop:
+  label: Identity in context
+  summary: 不只看一个球员小框：让同帧球员与跨帧视觉证据参与 embedding 形成，检查上下文究竟带来了什么。
 debate-or-vote:
   label: Debate or ensemble
   summary: 多智能体的收益来自相互辩论，还是初始答案的多数投票？拆开集成与交流，重新审视 baseline 和评测协议。

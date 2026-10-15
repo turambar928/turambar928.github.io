@@ -6,6 +6,8 @@
   const search = document.querySelector("#pn-search");
   if (search) {
     const buttons = [...document.querySelectorAll("[data-filter]")];
+    const months = [...document.querySelectorAll(".pn-month-group")];
+    const monthLinks = [...document.querySelectorAll("[data-month-link]")];
     let topic = "all";
     const filter = () => {
       const query = search.value.trim().toLocaleLowerCase();
@@ -17,9 +19,21 @@
         card.hidden = !match;
         if (match) visible++;
       });
+      months.forEach((month) => {
+        const count = month.querySelectorAll(".pn-card:not([hidden])").length;
+        month.hidden = count === 0;
+        month.querySelector(".pn-month-count").textContent = `${count} 篇`;
+        const link = monthLinks.find(
+          (item) => item.dataset.monthLink === month.dataset.month,
+        );
+        if (link) {
+          link.hidden = count === 0;
+          link.querySelector("span").textContent = count;
+        }
+      });
       document.querySelector("#pn-empty").hidden = visible !== 0;
       document.querySelector("#pn-results").textContent =
-        `${visible} of ${cards.length} reading notes shown`;
+        `显示 ${visible} / ${cards.length} 篇 · 按阅读日期倒序 · 一篇可属于多个方向`;
       buttons.forEach((button) =>
         button.setAttribute(
           "aria-pressed",
@@ -58,6 +72,34 @@
       }
     });
     document.querySelector(".pn-controls").hidden = false;
+    const archive = document.querySelector(".pn-archive");
+    const viewSwitch = document.querySelector(".pn-view-switch");
+    const views = [...viewSwitch.querySelectorAll("[data-view]")];
+    const setView = (view) => {
+      archive.dataset.view = view === "cards" ? "cards" : "timeline";
+      views.forEach((button) =>
+        button.setAttribute(
+          "aria-pressed",
+          String(button.dataset.view === archive.dataset.view),
+        ),
+      );
+    };
+    try {
+      setView(localStorage.getItem("pn-archive-view"));
+    } catch (_) {
+      setView("timeline");
+    }
+    views.forEach((button) =>
+      button.addEventListener("click", () => {
+        setView(button.dataset.view);
+        try {
+          localStorage.setItem("pn-archive-view", archive.dataset.view);
+        } catch (_) {
+          /* Storage can be disabled. */
+        }
+      }),
+    );
+    viewSwitch.hidden = false;
     filter();
   }
   if (window.matchMedia("(hover: hover) and (pointer: fine)").matches) {

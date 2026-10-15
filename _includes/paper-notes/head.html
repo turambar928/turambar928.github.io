@@ -7,4 +7,4 @@
 <meta property="og:site_name" content="{{ site.title | escape }}">
 {% if site.url %}<link rel="canonical" href="{{ page.url | absolute_url }}"><meta property="og:url" content="{{ page.url | absolute_url }}">{% endif %}
 <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
-<link rel="stylesheet" href="{{ '/assets/css/paper-notes.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/paper-notes.css' | relative_url }}?v={{ site.time | date: '%s' }}">

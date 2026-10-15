@@ -7,6 +7,6 @@ layout: null
 <body id="top" class="pn-site">
   {% include paper-notes/nav.html %}
   {{ content }}
-  <script src="{{ '/assets/js/paper-notes.js' | relative_url }}" defer></script>
+  <script src="{{ '/assets/js/paper-notes.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 </body>
 </html>
