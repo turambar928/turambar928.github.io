@@ -14,7 +14,7 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 <span class='anchor' id='news'></span>
 # News
 
-* **Aug 21, 2026**: My paper [*Structured Strategy Injection for Data Analysis Agents*](https://openreview.net/forum?id=X1EOiod6ar#discussion) was accepted to **EMNLP 2026 Findings**. See you in Budapest!
+* **Aug 21, 2026**: My paper [*Structured Strategy Injection for Data Analysis Agents*](https://aclanthology.org/2026.findings-emnlp.1279/) was accepted to **EMNLP 2026 Findings**. See you in Budapest!
 
 <span class='anchor' id='education'></span>
 # Education
@@ -41,7 +41,7 @@ I am a 2026 graduate of the Software Engineering at the <a href="https://cs.tong
 
 ### Published
 
-* <a href="https://openreview.net/forum?id=X1EOiod6ar#discussion" target="_blank">Structured Strategy Injection for Data Analysis Agents</a><br>
+* <a href="https://aclanthology.org/2026.findings-emnlp.1279/" target="_blank">Structured Strategy Injection for Data Analysis Agents</a><br>
   **Zifu Tao**, Guozhao Mo, Weixiang Zhou, Yaojie Lu, Hongyu Lin, Ben He, Xianpei Han, Le Sun<br>
   *EMNLP 2026 Findings*
 
