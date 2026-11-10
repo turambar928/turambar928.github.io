@@ -31,3 +31,21 @@ conmem:
 agentbeats:
   label: Testing the agents
   summary: 把智能体评估也变成智能体工作流，探索更开放、标准化、可复现的测试方式。
+sparks-of-weight-space-programming:
+  artwork: rl
+  label: Programming the weights
+  summary: 直接读写神经网络参数，能解释和修复多少行为？从游戏策略到循环生成，检查权重编辑的效果与边界。
+platonic-representation-with-jepas:
+  artwork: multiview
+  label: A shared geometry
+  summary: 不同模态怎样学到共同表示？从正样本关系出发，理解 JEPA 的对齐条件、实验结果和数据来源。
+a-fix-for-softmax-and-cross-entropy:
+  artwork: timeline
+  label: Precision in the details
+  summary: 减去最大值之后，softmax 仍可能丢失梯度信息。从浮点舍入到蒸馏漂移，检查数值计算中的细节。
+do-llm-agents-have-regret:
+  label: Learning from feedback
+  summary: 连续决策中的 LLM 能否降低累计 regret？用在线学习与重复博弈检验历史、反馈和策略更新。
+why-agentic-theorem-prover-works:
+  label: Searching for a proof
+  summary: 有限验证预算下，证明成功率怎样受价值估计误差、数据覆盖与证明长度影响？把 agent 模块接到统计界上。

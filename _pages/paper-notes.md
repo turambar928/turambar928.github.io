@@ -1,7 +1,7 @@
 ---
 permalink: /paper-notes/
 title: "Paper Notes"
-description: "A personal research archive. Papers, connections, and open questions in AI4Sports, agents, and reinforcement learning."
+description: "A personal research archive covering AI4Sports, agents, reinforcement learning, representation learning, training, and mathematical reasoning."
 layout: paper-notes
 ---
 {% assign notes = site.posts | where_exp: "post", "post.categories contains 'paper-notes'" | sort: 'date' | reverse %}
@@ -9,6 +9,9 @@ layout: paper-notes
 {% assign sports = notes | where_exp: "post", "post.tags contains 'ai4sports'" %}
 {% assign agents = notes | where_exp: "post", "post.tags contains 'agents'" %}
 {% assign rl = notes | where_exp: "post", "post.tags contains 'reinforcement-learning'" %}
+{% assign representation = notes | where_exp: "post", "post.tags contains 'representation-learning'" %}
+{% assign training = notes | where_exp: "post", "post.tags contains 'training'" %}
+{% assign mathematics = notes | where_exp: "post", "post.tags contains 'mathematical-reasoning'" %}
 {% assign months = notes | group_by_exp: "post", "post.date | date: '%Y-%m'" %}
 <main id="main" class="pn-shell">
   <section class="pn-hero" aria-labelledby="archive-title">
@@ -25,7 +28,7 @@ layout: paper-notes
       <div class="pn-orbit-caption"><span>EVERY PAPER IS A NEW CONNECTION.</span><span>↗</span></div>
     </div>
   </section>
-  <div class="pn-index-strip"><span><b>{{ notes.size }}</b> READING NOTES</span><span>AI4SPORTS / AGENTS / RL</span><span>{% if latest %}LAST ENTRY — {{ latest.date | date: "%Y.%m.%d" }}{% else %}THE ARCHIVE BEGINS HERE{% endif %}</span></div>
+  <div class="pn-index-strip"><span><b>{{ notes.size }}</b> READING NOTES</span><span>AI4SPORTS / AGENTS / LEARNING</span><span>{% if latest %}LAST ENTRY — {{ latest.date | date: "%Y.%m.%d" }}{% else %}THE ARCHIVE BEGINS HERE{% endif %}</span></div>
   {% if latest %}
   {% assign latest_summary = site.data.paper_notes[latest.slug] %}
   <section class="pn-feature" aria-labelledby="latest-title">
@@ -36,7 +39,15 @@ layout: paper-notes
   <section class="pn-archive" id="archive" aria-labelledby="archive-heading" data-view="timeline">
     <div class="pn-section-heading"><div><p class="pn-eyebrow">02 / READING CHRONICLE</p><h2 id="archive-heading">Reading timeline<span>.</span></h2></div><p>按阅读日期记录，最新在前。<br>用研究方向串起不同论文。</p></div>
     <div class="pn-controls" hidden>
-      <div class="pn-filters" role="group" aria-label="按研究方向筛选"><button type="button" data-filter="all" aria-pressed="true">全部论文 <span>{{ notes.size }}</span></button><button type="button" data-filter="ai4sports" aria-pressed="false">AI4Sports · 体育 AI <span>{{ sports.size }}</span></button><button type="button" data-filter="agents" aria-pressed="false">Agents · 智能体 <span>{{ agents.size }}</span></button><button type="button" data-filter="reinforcement-learning" aria-pressed="false">RL · 强化学习 <span>{{ rl.size }}</span></button></div>
+      <div class="pn-filters" role="group" aria-label="按研究方向筛选">
+        <button type="button" data-filter="all" aria-pressed="true">全部论文 <span>{{ notes.size }}</span></button>
+        <button type="button" data-filter="ai4sports" aria-pressed="false">AI4Sports · 体育 AI <span>{{ sports.size }}</span></button>
+        <button type="button" data-filter="agents" aria-pressed="false">Agents · 智能体 <span>{{ agents.size }}</span></button>
+        <button type="button" data-filter="reinforcement-learning" aria-pressed="false">RL · 强化学习 <span>{{ rl.size }}</span></button>
+        <button type="button" data-filter="representation-learning" aria-pressed="false">表征学习 <span>{{ representation.size }}</span></button>
+        <button type="button" data-filter="training" aria-pressed="false">模型训练 <span>{{ training.size }}</span></button>
+        <button type="button" data-filter="mathematical-reasoning" aria-pressed="false">数学推理 <span>{{ mathematics.size }}</span></button>
+      </div>
       <label class="pn-search"><span class="pn-sr-only">Search titles, tags and summaries</span><span aria-hidden="true">⌕</span><input id="pn-search" type="search" placeholder="Find a paper…" autocomplete="off"><kbd aria-hidden="true">/</kbd></label>
     </div>
     <div class="pn-archive-tools">

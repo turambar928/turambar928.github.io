@@ -1,6 +1,6 @@
 ---
 title: "Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?"
-date: 2026-10-15
+date: 2026-11-10
 layout: paper-note-post
 categories:
   - paper-notes
